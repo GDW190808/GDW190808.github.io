@@ -1,0 +1,15 @@
+awards:
+  - year: 2024
+    items:
+      - img: award3.jpg
+        title: 中国纺织工业联合会科学技术奖一等奖
+
+  - year: 2023
+    items:
+      - img: award2.jpg
+        title: 中国纺织工业联合会科学技术奖二等奖
+
+  - year: 2022
+    items:
+      - img: award1.jpg
+        title: 中国商业联合会科学技术二等奖
