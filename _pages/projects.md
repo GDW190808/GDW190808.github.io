@@ -10,6 +10,23 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
+<h2>🏆 获奖</h2>
+
+{% for group in site.data.awards.awards %}
+  <h3 class="award-year">{{ group.year }}</h3>
+
+  <div class="awards-container">
+    {% for award in group.items %}
+      <div class="award-card">
+        <a href="{{ award.img | prepend: '/assets/img/awards/' }}" target="_blank">
+          <img src="{{ award.img | prepend: '/assets/img/awards/' }}" class="award-img">
+        </a>
+        <p class="award-title">{{ award.title }}</p>
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
+
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
