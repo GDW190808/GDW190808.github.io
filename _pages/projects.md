@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 项目
+title: 专利项目
 permalink: /projects/
-description: 更新项目.
+description: projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [专利, 项目]
 horizontal: false
 ---
 
