@@ -38,6 +38,12 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
+.profile img {
+  width: 150px !important;
+  height: 150px !important;
+  object-fit: cover;
+}
+
 // person team
 .team-container {
   display: grid;
