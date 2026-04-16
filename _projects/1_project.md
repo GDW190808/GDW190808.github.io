@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: 一种参数可调整的服装工艺模块化设计方法
+description: 专利1
+img: assets/img/zl1.png
 importance: 1
-category: work
+category: 专利
+pdf: /assets/pdf/2020105120062一种参数可调整的服装工艺模块化设计方法.pdf
 related_publications: true
 ---
 
