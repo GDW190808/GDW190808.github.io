@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 一种两段式防水透气袖子
-description: zl7
-img: assets/img/4.jpg
+description: 
+img: assets/img/zl7.jpg
 pdf: ""
 importance: 7
 category: 专利
