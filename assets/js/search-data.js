@@ -401,7 +401,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-一种参数可调整的服装工艺模块化设计方法",
+          section: "News",},{id: "projects-一种基于faster-r-cnn网络的衬衣袖口工艺识别方法",
+          title: '一种基于Faster R-CNN网络的衬衣袖口工艺识别方法',
+          description: "zl10",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-一种参数可调整的服装工艺模块化设计方法",
           title: '一种参数可调整的服装工艺模块化设计方法',
           description: "专利1",
           section: "Projects",handler: () => {
