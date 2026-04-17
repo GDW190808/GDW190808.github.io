@@ -431,9 +431,9 @@ ninja.data = [{
           description: "zl6",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-一种两段式防水透气袖子",
+          title: '一种两段式防水透气袖子',
+          description: "zl7",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
