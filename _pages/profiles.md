@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
 title: 团队成员
 description: 团队成员
@@ -82,3 +82,16 @@ profiles:
       <p><strong>卜靖雯</strong></p>
       <p>硕士研究生</p>
 ---
+<div class="team-container">
+  {% for profile in page.profiles %}
+    <div class="team-card">
+
+      <img src="/assets/img/{{ profile.image }}" class="team-img">
+
+      <div class="team-info">
+        {{ profile.more_info }}
+      </div>
+
+    </div>
+  {% endfor %}
+</div>
