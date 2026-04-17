@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
+title: 一种通气下水裤
+description: zl8
+img: assets/img/zl8.jpg
+importance: 8
+category: 专利
+pdf: /assets/pdf/201510589258.4一种通气下水裤.pdf
 giscus_comments: true
 ---
 
