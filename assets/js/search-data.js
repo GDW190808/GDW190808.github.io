@@ -453,7 +453,7 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-一种两段式防水透气袖子",
           title: '一种两段式防水透气袖子',
-          description: "zl7",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-一种通气下水裤",
