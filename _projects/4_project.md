@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: 一种基于Faster R-CNN网络的衬衣袖口工艺识别方法
+description: zl4
+img: assets/img/zl4.png
+pdf: /assets/pdf/202210187270.2一种基于Faster R-CNN网络的衬衣袖口工艺识别方法.pdf
 importance: 3
 category: fun
 ---
