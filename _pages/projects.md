@@ -18,8 +18,8 @@ horizontal: false
   <div class="awards-container">
     {% for award in group.items %}
       <div class="award-card">
-        <a href="{{ award.img | prepend: '/assets/img/awards/' }}" target="_blank">
-          <img src="{{ award.img | prepend: '/assets/img/awards/' }}" class="award-img">
+        <a href="{{ award.img | prepend: '/assets/img/' }}" target="_blank">
+          <img src="{{ award.img | prepend: '/assets/img/' }}" class="award-img">
         </a>
         <p class="award-title">{{ award.title }}</p>
       </div>
