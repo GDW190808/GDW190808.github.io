@@ -411,6 +411,11 @@ ninja.data = [{
           description: "zl11",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
+            },},{id: "projects-一套具有救生功能的船用工作服",
+          title: '一套具有救生功能的船用工作服',
+          description: "zl12",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-一种参数可调整的服装工艺模块化设计方法",
           title: '一种参数可调整的服装工艺模块化设计方法',
           description: "专利1",
