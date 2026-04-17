@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: 一种多相机图像采集方法及装置
+description: zl3
+img: assets/img/zl3.jpg
+pdf: /assets/pdf/202111128099X.一种多相机图像采集方法及装置.pdf
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: 专利
 ---
 
 Every project has a beautiful feature showcase page.
