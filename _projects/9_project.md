@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: 一种便于锁后共享单车移动的辅助装置
+description: zl9
+img: assets/img/zl9.jpg
+importance: 9
+pdf: /assets/pdf/201810924658.X一种便于锁后共享单车移动的辅助装置.pdf
+category: 专利
 ---
 
 Every project has a beautiful feature showcase page.
