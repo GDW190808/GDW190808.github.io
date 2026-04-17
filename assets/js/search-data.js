@@ -411,9 +411,9 @@ ninja.data = [{
           description: "专利2",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-一种多相机图像采集方法及装置",
+          title: '一种多相机图像采集方法及装置',
+          description: "zl3",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
