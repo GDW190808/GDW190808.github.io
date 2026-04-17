@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title:  一种仿云锦妆花缎的印花面料及其制备方法
+description: zl6
+importance: 3
+img: assets/img/zl6.png
+importance: 1
+category: 专利
+pdf: /assets/pdf/202210743793.0一种仿云锦妆花缎的印花面料及其制备方法.pdf
 ---
 
 Every project has a beautiful feature showcase page.
