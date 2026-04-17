@@ -401,8 +401,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-一种基于faster-r-cnn网络的衬衣袖口工艺识别方法",
-          title: '一种基于Faster R-CNN网络的衬衣袖口工艺识别方法',
+          section: "News",},{id: "projects-一种云锦妆花缎面料纹样快速生成系统及方法",
+          title: '一种云锦妆花缎面料纹样快速生成系统及方法',
           description: "zl10",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
