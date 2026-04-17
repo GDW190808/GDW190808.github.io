@@ -426,9 +426,9 @@ ninja.data = [{
           description: "zl5",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-一种仿云锦妆花缎的印花面料及其制备方法",
+          title: '一种仿云锦妆花缎的印花面料及其制备方法',
+          description: "zl6",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
