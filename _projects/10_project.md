@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 一种基于Faster R-CNN网络的衬衣袖口工艺识别方法
+title: 一种云锦妆花缎面料纹样快速生成系统及方法
 description: zl10
 img: assets/img/zl10.png
-pdf: /assets/pdf/202210187270.2一种基于Faster R-CNN网络的衬衣袖口工艺识别方法.pdf
+pdf: /assets/pdf/202210265143.X一种云锦妆花缎面料纹样快速生成系统及方法.pdf
 importance: 10
 category: 专利
 ---
