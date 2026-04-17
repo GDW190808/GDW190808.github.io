@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title:  一种基于分层原理的云锦风格图像生成方法
+description: zl5
 importance: 3
-category: fun
+img: assets/img/zl5.png
+importance: 1
+category: 专利
+pdf: /assets/pdf/202210609963.6一种基于分层原理的云锦风格图像生成方法.pdf
 ---
 
 Every project has a beautiful feature showcase page.
