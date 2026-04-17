@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: 一种自动识别服装工艺的方法
+description: 专利2
+img: assets/img/zl2.jpg
 importance: 2
-category: work
+category: 专利
+pdf: /assets/pdf/202110035636X一种自动识别服装工艺的方法.pdf 
 giscus_comments: true
 ---
 
