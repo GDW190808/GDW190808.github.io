@@ -441,9 +441,9 @@ ninja.data = [{
           description: "zl8",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-一种便于锁后共享单车移动的辅助装置",
+          title: '一种便于锁后共享单车移动的辅助装置',
+          description: "zl9",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
