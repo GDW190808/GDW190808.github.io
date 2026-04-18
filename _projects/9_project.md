@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一种便于锁后共享单车移动的辅助装置
-description: zl9
+description:
 img: assets/img/zl9.jpg
 importance: 9
 pdf: /assets/pdf/201810924658.X一种便于锁后共享单车移动的辅助装置.pdf
