@@ -53,7 +53,7 @@ ninja.data = [{
               window.location.href = "/projects/10_project/";
             },},{id: "projects-一种基于高精度数字图像的服装缝线疵点自动检测方法",
           title: '一种基于高精度数字图像的服装缝线疵点自动检测方法',
-          description: "zl11",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-一套具有救生功能的船用工作服",
