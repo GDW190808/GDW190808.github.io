@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  一种仿云锦妆花缎的印花面料及其制备方法
-description: zl6
+description:
 importance: 3
 img: assets/img/zl6.png
 importance: 1
