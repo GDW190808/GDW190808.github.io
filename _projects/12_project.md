@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一套具有救生功能的船用工作服
-description: zl12
+description:
 img: assets/img/zl12.png
 importance: 12
 category: 专利
