@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一种通气下水裤
-description: zl8
+description:
 img: assets/img/zl8.jpg
 importance: 8
 category: 专利
