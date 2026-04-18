@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一种基于Faster R-CNN网络的衬衣袖口工艺识别方法
-description: zl4
+description:
 img: assets/img/zl4.png
 pdf: /assets/pdf/202210187270.2一种基于Faster R-CNN网络的衬衣袖口工艺识别方法.pdf
 importance: 4
