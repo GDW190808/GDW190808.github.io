@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一种多功能腰腹带
-description: 专利13
+description:
 img: assets/img/zl13.png
 importance: 13
 category: 专利
