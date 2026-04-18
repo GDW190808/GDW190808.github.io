@@ -63,7 +63,7 @@ ninja.data = [{
               window.location.href = "/projects/12_project/";
             },},{id: "projects-一种多功能腰腹带",
           title: '一种多功能腰腹带',
-          description: "专利13",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
             },},{id: "projects-一种参数可调整的服装工艺模块化设计方法",
