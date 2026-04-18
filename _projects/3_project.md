@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一种多相机图像采集方法及装置
-description: zl3
+description: 
 img: assets/img/zl3.jpg
 pdf: /assets/pdf/202111128099X.一种多相机图像采集方法及装置.pdf
 redirect: https://unsplash.com
