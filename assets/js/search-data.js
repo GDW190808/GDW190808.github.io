@@ -103,12 +103,12 @@ ninja.data = [{
               window.location.href = "/projects/7_project/";
             },},{id: "projects-一种通气下水裤",
           title: '一种通气下水裤',
-          description: "zl8",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-一种便于锁后共享单车移动的辅助装置",
           title: '一种便于锁后共享单车移动的辅助装置',
-          description: "zl9",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
