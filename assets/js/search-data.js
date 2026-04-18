@@ -58,7 +58,7 @@ ninja.data = [{
               window.location.href = "/projects/11_project/";
             },},{id: "projects-一套具有救生功能的船用工作服",
           title: '一套具有救生功能的船用工作服',
-          description: "zl12",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
             },},{id: "projects-一种多功能腰腹带",
