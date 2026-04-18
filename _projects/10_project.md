@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一种云锦妆花缎面料纹样快速生成系统及方法
-description: zl10
+description:
 img: assets/img/zl10.png
 pdf: /assets/pdf/202210265143.X一种云锦妆花缎面料纹样快速生成系统及方法.pdf
 importance: 10
