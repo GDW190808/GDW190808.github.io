@@ -105,8 +105,9 @@
 
 .team-img {
   width: 200px;
-  height: 200px;
+  height: auto;
   object-fit: cover;
+  border-radius: 50%;
   margin-bottom: 15px;
 }
 
