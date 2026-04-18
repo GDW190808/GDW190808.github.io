@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一种基于高精度数字图像的服装缝线疵点自动检测方法
-description: zl11
+description:
 img: assets/img/zl11.png
 pdf: /assets/pdf/202110740826.1一种基于高精度数字图像的服装缝线疵点自动检测方法.pdf
 importance: 11
