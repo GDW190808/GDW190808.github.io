@@ -83,7 +83,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-一种基于faster-r-cnn网络的衬衣袖口工艺识别方法",
           title: '一种基于Faster R-CNN网络的衬衣袖口工艺识别方法',
-          description: "zl4",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-一种基于分层原理的云锦风格图像生成方法",
