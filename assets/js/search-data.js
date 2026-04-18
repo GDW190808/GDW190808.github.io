@@ -78,7 +78,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-一种多相机图像采集方法及装置",
           title: '一种多相机图像采集方法及装置',
-          description: "zl3",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-一种基于faster-r-cnn网络的衬衣袖口工艺识别方法",
