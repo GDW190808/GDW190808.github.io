@@ -108,7 +108,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-一种便于锁后共享单车移动的辅助装置",
           title: '一种便于锁后共享单车移动的辅助装置',
-          description: "",
+          description: "zl9",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
