@@ -73,7 +73,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-一种自动识别服装工艺的方法",
           title: '一种自动识别服装工艺的方法',
-          description: "专利2",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-一种多相机图像采集方法及装置",
