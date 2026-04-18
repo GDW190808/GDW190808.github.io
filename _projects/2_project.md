@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一种自动识别服装工艺的方法
-description: 专利2
+description: 
 img: assets/img/zl2.jpg
 importance: 2
 category: 专利
