@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 一种参数可调整的服装工艺模块化设计方法
-description: 专利1
+description: 
 img: assets/img/zl1.png
 importance: 1
 category: 专利
