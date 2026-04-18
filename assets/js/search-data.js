@@ -48,7 +48,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-一种云锦妆花缎面料纹样快速生成系统及方法",
           title: '一种云锦妆花缎面料纹样快速生成系统及方法',
-          description: "zl10",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-一种基于高精度数字图像的服装缝线疵点自动检测方法",
@@ -108,7 +108,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-一种便于锁后共享单车移动的辅助装置",
           title: '一种便于锁后共享单车移动的辅助装置',
-          description: "zl9",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
