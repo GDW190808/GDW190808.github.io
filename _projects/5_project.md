@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  一种基于分层原理的云锦风格图像生成方法
-description: zl5
+description:
 img: assets/img/zl5.png
 importance: 5
 category: 专利
