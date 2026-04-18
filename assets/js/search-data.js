@@ -68,7 +68,7 @@ ninja.data = [{
               window.location.href = "/projects/13_project/";
             },},{id: "projects-一种参数可调整的服装工艺模块化设计方法",
           title: '一种参数可调整的服装工艺模块化设计方法',
-          description: "专利1",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-一种自动识别服装工艺的方法",
